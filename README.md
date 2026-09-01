@@ -1,110 +1,65 @@
-# Hi 👋, I'm Mattia Ramondo
+# Mattia Ramondo
 
-### Computer Science Student @ University of L'Aquila  
-📍 Casoli (CH), Italy
+### Junior Java & Web Backend Developer | Computer Science Student
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/361/36116.gif" alt="Computer GIF" width="320"/>
-</p>
+📍 Casoli, Abruzzo, Italy  
+💼 Open to part-time junior roles, internships and apprenticeships — remote or in the Casoli/Chieti area  
+🎓 BSc in Computer Science, University of L'Aquila — expected graduation: July 2027
 
----
+## Profilo / Profile
 
-## 👨‍💻 About Me
+**IT** — Sono uno studente di Informatica orientato allo sviluppo Java e web backend. Realizzo applicazioni accademiche con Java, PHP e SQL, lavorando sulla modellazione dei dati, sulla logica applicativa e sull’organizzazione del codice.
 
-I'm a Computer Science student at the University of L'Aquila, with a strong interest in web development, software engineering, systems, networks, databases, and cloud technologies.
+**EN** — I am a Computer Science student focused on Java and web backend development. I build academic applications using Java, PHP and SQL, with particular attention to data modelling, application logic and code organisation.
 
-My academic path includes courses related to programming, databases, operating systems, software engineering, web engineering, web technologies, computer networks, agile development, algorithms, and theoretical computer science.
+## Progetti principali / Featured Projects
 
-I enjoy building practical projects, improving my technical skills, and learning how to design clean, reliable, and well-structured software systems.
+### [UniGest](https://github.com/raworld26/unigest)
 
----
+Applicazione desktop per la gestione dei processi universitari, con funzionalità dedicate a studenti, docenti e amministratori.
 
-## 🛠️ Languages and Tools
+*Desktop application for managing university workflows across student, teacher and administrator roles.*
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="55" height="55"/>
-</p>
+**Technologies:** Java 17, JavaFX, Maven, Jackson, JSON
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FreeMarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white" alt="FreeMarker"/>
-</p>
+### [MasterRent](https://github.com/raworld26/MasterRent)
 
----
+Portale web per la gestione degli affitti universitari a L'Aquila. Il progetto confronta una prima implementazione procedurale con una versione riorganizzata secondo una struttura ispirata al pattern MVC.
 
-## 📚 Academic Background
+*Web platform for managing student rentals, developed through two implementations to compare procedural code with a more structured MVC-inspired approach.*
 
-My university studies cover several areas of Computer Science, including:
+**Technologies:** PHP 8.2, MySQL/MariaDB, HTML, CSS, JavaScript
 
-- Object-Oriented Programming
-- System Programming
-- Databases
-- Operating Systems
-- Algorithms and Data Structures
-- Software Engineering
-- Web Engineering
-- Web Technologies
-- Computer Networks
-- Agile Development
-- Programming Languages and Compilers
-- Computability and Complexity Theory
-- Image Processing
+### [MasterDump](https://github.com/raworld26/MasterDump)
 
----
+Sistema web per la gestione di richieste d’acquisto, ruoli utente, approvazioni e assegnazioni tecniche.
 
-## 🎯 Main Interests
+*Web application for managing purchase requests, user roles, approval workflows and technician assignments.*
 
-- Web development
-- Backend development
-- Software engineering
-- Databases
-- Systems and networks
-- Cloud and DevOps fundamentals
+**Technologies:** PHP, MySQL, HTML, CSS
 
----
+## Competenze / Skills
 
-## 🌱 Currently Improving
+| Area | Technologies |
+|---|---|
+| Core | Java, SQL, PHP, Git |
+| Web | HTML, CSS, JavaScript |
+| Tools | Maven, JavaFX, MySQL/MariaDB, Jackson/JSON |
+| Currently learning | Java Web, Servlets, FreeMarker, Linux and cloud fundamentals |
 
-- Full-stack web development
-- Java-based web applications
-- Database design and management
-- Clean and maintainable code structure
-- Cloud and DevOps concepts
+## Contesto dei progetti / Project Context
 
----
+**IT** — I progetti presentati sono stati realizzati in team universitari di tre persone, con lavoro condiviso tra analisi, progettazione, implementazione e documentazione. Durante lo sviluppo sono stati utilizzati anche strumenti di IA generativa, come indicato nei repository interessati.
 
-## 🧩 Fun Facts
+**EN** — The featured projects were developed in three-person university teams, sharing work across analysis, design, implementation and documentation. Generative AI tools were also used during development, as documented in the relevant repositories.
 
-- ☕ I work as a barista
-- 🌍 I would like to live abroad and gain international experience
-- ✈️ I enjoy the idea of travelling and discovering new cultures
+## Attualmente sto approfondendo / Currently Learning
 
----
+- Java web backend development
+- Servlets and FreeMarker
+- Automated testing and CI/CD fundamentals
+- Linux and cloud deployment fundamentals
 
-## 📬 Contact Me
+## Contatti / Contact
 
-<p align="center">
-  <a href="https://www.facebook.com/mattia.ramondo.3/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mattia-ramondo-309056358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/mattr0_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
+- [LinkedIn](https://www.linkedin.com/in/mattia-ramondo-309056358/)
