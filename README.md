@@ -20,7 +20,7 @@ Applicazione desktop per la gestione dei processi universitari, con funzionalit√
 
 *Desktop application for managing university workflows across student, teacher and administrator roles.*
 
-**Technologies:** Java 17, JavaFX, Maven, Jackson, JSON
+**Technologies:** Java 21, JavaFX, Maven, Jackson, JSON
 
 ### [MasterRent](https://github.com/raworld26/MasterRent)
 
