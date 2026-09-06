@@ -1,6 +1,6 @@
 # Mattia Ramondo
 
-### Junior Java & Web Backend Developer | Computer Science Student
+### Computer Science Student
 
 📍 Casoli, Abruzzo, Italy  
 💼 Open to part-time junior roles, internships and apprenticeships — remote or in the Casoli/Chieti area  
