@@ -1,15 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-<title id="title">Mattia Ramondo — developer universe</title><desc id="desc">A small astronaut works at a terminal among stars and orbit lines.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11182e"/><stop offset="1" stop-color="#202044"/></linearGradient><linearGradient id="glow" x2="1" y2="1"><stop stop-color="#6dd9f4"/><stop offset="1" stop-color="#b4a0ff"/></linearGradient></defs>
-<rect width="1000" height="300" rx="24" fill="url(#bg)"/><circle cx="838" cy="140" r="108" fill="none" stroke="#6dd9f4" stroke-opacity=".22" stroke-width="2"/><circle cx="838" cy="140" r="75" fill="none" stroke="#b4a0ff" stroke-opacity=".22" stroke-width="2"/>
-<g fill="#87cdea"><circle cx="70" cy="42" r="2"/><circle cx="338" cy="34" r="2"/><circle cx="526" cy="72" r="2"/><circle cx="680" cy="38" r="2"/><circle cx="945" cy="48" r="2"/><circle cx="580" cy="248" r="2"/><circle cx="956" cy="252" r="2"/></g><path d="M60 245H575" stroke="#5f6b96" stroke-width="2" stroke-dasharray="5 9"/>
-<text x="60" y="76" fill="#91daf0" font-family="Verdana,Arial,sans-serif" font-size="16" letter-spacing="3">RAWORLD26  /  DEVELOPER UNIVERSE</text>
-<text x="60" y="144" fill="#fff" font-family="Verdana,Arial,sans-serif" font-size="51" font-weight="700">Mattia Ramondo</text>
-<text x="62" y="190" fill="#e5e5f4" font-family="Verdana,Arial,sans-serif" font-size="22">Computer Science student · Software developer</text>
-<text x="62" y="231" fill="#91daf0" font-family="Verdana,Arial,sans-serif" font-size="19">Design the system. Build the next thing.</text>
-<!-- original astronaut mascot -->
-<ellipse cx="817" cy="261" rx="125" ry="13" fill="#0b1023"/><rect x="850" y="158" width="96" height="63" rx="8" fill="#83def4"/><rect x="857" y="165" width="82" height="49" rx="4" fill="#0b1a32"/><path d="M871 185l10 8-10 8m17 0h18" fill="none" stroke="#91e8c8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M870 221h55l10 13h-77z" fill="#586aaa"/>
-<path d="M763 191q-12 25 5 54h85q14-34-4-55z" fill="#d6defe"/><rect x="781" y="237" width="19" height="25" rx="7" fill="#a5b5ec"/><rect x="819" y="237" width="19" height="25" rx="7" fill="#a5b5ec"/><path d="M760 207l-20 25 9 8 34-22m64-8 22 17-8 10-28-16" fill="none" stroke="#d6defe" stroke-width="16" stroke-linecap="round"/>
-<circle cx="805" cy="143" r="57" fill="#eef2ff"/><circle cx="805" cy="145" r="45" fill="#86bdec"/><path d="M773 146q32-40 68-10v35h-69z" fill="#172b4b"/><circle cx="788" cy="144" r="4" fill="#91e8c8"/><circle cx="821" cy="144" r="4" fill="#91e8c8"/><path d="M793 158q12 9 24 0" fill="none" stroke="#91e8c8" stroke-width="3" stroke-linecap="round"/><circle cx="805" cy="143" r="56" fill="none" stroke="#b2a1ff" stroke-width="3"/><path d="M803 85v-16m0 0 15-6" stroke="#dce7ff" stroke-width="4"/><circle cx="819" cy="62" r="6" fill="#91e8c8"/>
-<path d="M946 104l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#e8c78e"/>
+<title id="title">Mattia Ramondo — software development and cloud learning</title><desc id="desc">A code window connected to a cloud, database, and small service nodes.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#10192f"/><stop offset="1" stop-color="#182e47"/></linearGradient><linearGradient id="cloud" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#7ddce7"/><stop offset="1" stop-color="#a99df4"/></linearGradient></defs>
+<rect width="1000" height="300" rx="24" fill="url(#bg)"/>
+<g stroke="#b0c7dc" stroke-opacity=".07"><path d="M0 60h1000M0 120h1000M0 180h1000M0 240h1000M60 0v300M120 0v300M180 0v300M240 0v300M300 0v300M360 0v300M420 0v300M480 0v300M540 0v300M600 0v300M660 0v300M720 0v300M780 0v300M840 0v300M900 0v300M960 0v300"/></g>
+<rect x="36" y="35" width="210" height="30" rx="15" fill="#24445a"/><circle cx="56" cy="50" r="5" fill="#81e4d2"/><text x="72" y="56" fill="#d5f5f2" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1">RAWORLD26 / BUILD LOG</text>
+<text x="36" y="132" fill="#f7fbff" font-family="Arial,sans-serif" font-size="52" font-weight="700">Mattia Ramondo</text>
+<text x="39" y="181" fill="#dcecf6" font-family="Arial,sans-serif" font-size="23">Computer Science student · Software developer</text>
+<text x="39" y="221" fill="#90e5e4" font-family="Arial,sans-serif" font-size="19">From clear diagrams to working software.</text>
+<path d="M39 256h562" stroke="#799fb6" stroke-width="2" stroke-dasharray="5 8"/><text x="39" y="279" fill="#b8d4e4" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">JAVA  /  BACKEND  /  LEARNING THE CLOUD</text>
+<!-- Cloud shape and a small coding workspace -->
+<path d="M728 111c4-29 32-51 62-45 17-30 64-37 91-12 10 8 17 18 20 30 29 1 49 23 49 49 0 27-21 48-49 48H727c-27 0-48-19-48-44 0-23 20-42 49-43z" fill="#203d56" stroke="url(#cloud)" stroke-width="4"/>
+<path d="M687 215h-43m281 0h38m-44-23v43" stroke="#7ccfdb" stroke-width="3" stroke-linecap="round"/><circle cx="639" cy="215" r="6" fill="#8fe2dd"/><circle cx="965" cy="215" r="6" fill="#a99df4"/><circle cx="919" cy="239" r="5" fill="#8fe2dd"/>
+<rect x="725" y="117" width="180" height="115" rx="11" fill="#0b1d32" stroke="#8bd9ed" stroke-width="3"/><path d="M726 146h178" stroke="#355975" stroke-width="2"/><circle cx="743" cy="133" r="5" fill="#86e7da"/><circle cx="760" cy="133" r="5" fill="#a8a4f4"/><circle cx="777" cy="133" r="5" fill="#f1cd99"/>
+<path d="M755 175l-12 10 12 10m38-20 12 10-12 10m-16-24-7 29" stroke="#98e9d8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M832 174h45m-45 17h35m-35 17h27" stroke="#8daae1" stroke-width="5" stroke-linecap="round"/>
+<path d="M803 232v20m-51 0h102" stroke="#8bd9ed" stroke-width="5" stroke-linecap="round"/>
+<path d="M933 67l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#f1cd99"/>
 </svg>
