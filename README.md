@@ -1,65 +1,61 @@
-# Mattia Ramondo
+<!-- Mattia Ramondo · profile README · assets are stored in this repository. -->
+<p align="center">
+  <img src="assets/hero.svg" alt="Mattia Ramondo, Computer Science student and software developer, with a small astronaut at a terminal" width="100%">
+</p>
 
-### Computer Science Student
+<h1 align="center">Hi, I'm Mattia 👋</h1>
+<p align="center"><strong>Computer Science student at the University of L'Aquila</strong><br>Building useful software, one well-considered decision at a time.</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3200&amp;pause=1000&amp;color=82CEE8&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=Java+%26+backend;Software+design+%26+teamwork;Learning+DevOps+%26+cloud" alt="Java and backend; software design and teamwork; learning DevOps and cloud" width="70%"></p>
+<p align="center">
+  <a href="https://github.com/raworld26?tab=repositories">Explore my code</a> ·
+  <a href="mailto:mattia.ramondo2004@gmail.com">Get in touch</a>
+</p>
 
-📍 Casoli, Abruzzo, Italy  
-💼 Open to part-time junior roles, internships and apprenticeships — remote or in the Casoli/Chieti area  
-🎓 BSc in Computer Science, University of L'Aquila — expected graduation: July 2027
+## 🪐 About this universe
 
-## Profilo / Profile
+I study Computer Science and enjoy turning a rough idea into a clear design, working code, and a usable interface. In university teams, I've worked on diagrams and software design, backend and application logic, and interface styling. I've also supported backend fixes and content updates for a university website.
 
-**IT** — Sono uno studente di Informatica orientato allo sviluppo Java e web backend. Realizzo applicazioni accademiche con Java, PHP e SQL, lavorando sulla modellazione dei dati, sulla logica applicativa e sull’organizzazione del codice.
+My current focus is **Java and backend development**. I use **Git, SQL, and Linux Mint** for coursework and projects, and I'm exploring what comes next in **DevOps and cloud computing**.
 
-**EN** — I am a Computer Science student focused on Java and web backend development. I build academic applications using Java, PHP and SQL, with particular attention to data modelling, application logic and code organisation.
+## 🧰 Tools in my orbit
 
-## Progetti principali / Featured Projects
+**Programming & web** · Java · PHP · SQL · JavaScript · HTML · CSS  
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css&amp;theme=dark" alt="Java, PHP, JavaScript, HTML, and CSS icons" height="48">
 
-### [UniGest](https://github.com/raworld26/unigest)
+**Data & desktop** · MySQL / MariaDB · JavaFX · Maven  
+<img src="https://skillicons.dev/icons?i=mysql,maven&amp;theme=dark" alt="MySQL and Maven icons" height="48">
 
-Applicazione desktop per la gestione dei processi universitari, con funzionalità dedicate a studenti, docenti e amministratori.
+**Workflow** · Git · GitHub · Linux Mint  
+<img src="https://skillicons.dev/icons?i=git,github,mint&amp;theme=dark" alt="Git, GitHub, and Linux Mint icons" height="48">  
+On Linux Mint, I'm comfortable navigating files, managing packages, and building and running programs from the terminal.
 
-*Desktop application for managing university workflows across student, teacher and administrator roles.*
+> **Next to explore:** deeper Java backend work → Docker and DevOps fundamentals → CI/CD → cloud computing. These are learning goals, not claims of professional experience.
 
-**Technologies:** Java 21, JavaFX, Maven, Jackson, JSON
+## 🚀 Featured missions
 
-### [MasterRent](https://github.com/raworld26/MasterRent)
+These are **university team projects**. My contributions have centered on design and diagrams, backend or application logic, and interface styling; the exact work varies by project.
 
-Portale web per la gestione degli affitti universitari a L'Aquila. Il progetto confronta una prima implementazione procedurale con una versione riorganizzata secondo una struttura ispirata al pattern MVC.
+<a href="https://github.com/raworld26/unigest"><img src="assets/unigest.svg" alt="UniGest project card: Java 21, JavaFX, Maven, JSON" width="100%"></a>
 
-*Web platform for managing student rentals, developed through two implementations to compare procedural code with a more structured MVC-inspired approach.*
+**[UniGest](https://github.com/raworld26/unigest)** · A desktop app that helps students, lecturers, and administrators manage exam sessions, bookings, and grades. Built with Java 21, JavaFX, Maven, Jackson, and JSON storage.
 
-**Technologies:** PHP 8.2, MySQL/MariaDB, HTML, CSS, JavaScript
+<a href="https://github.com/raworld26/MasterRent"><img src="assets/masterrent.svg" alt="MasterRent project card: PHP, MySQL or MariaDB, HTML, CSS, JavaScript" width="100%"></a>
 
-### [MasterDump](https://github.com/raworld26/MasterDump)
+**[MasterRent](https://github.com/raworld26/MasterRent)** · A web portal for university housing: filtered search, property management, and dedicated areas for students, owners, and administrators. Built with PHP, MySQL/MariaDB, HTML, CSS, and JavaScript.
 
-Sistema web per la gestione di richieste d’acquisto, ruoli utente, approvazioni e assegnazioni tecniche.
+<a href="https://github.com/raworld26/MasterDump"><img src="assets/masterdump.svg" alt="MasterDump project card: PHP, MySQL, HTML, CSS" width="100%"></a>
 
-*Web application for managing purchase requests, user roles, approval workflows and technician assignments.*
+**[MasterDump](https://github.com/raworld26/MasterDump)** · A web system that organizes purchase requests, product approvals, and technician assignments using a relational database. Built with PHP, MySQL, HTML, and CSS.
 
-**Technologies:** PHP, MySQL, HTML, CSS
+<details>
+<summary>One more project in the hangar</summary>
 
-## Competenze / Skills
+**[SafeDriveMonitor](https://github.com/raworld26/SafeDriveMonitor)** · An educational desktop prototype for simulated tests, user accounts, results, and an admin panel. Java, JavaFX, Maven, and SQLite.
 
-| Area | Technologies |
-|---|---|
-| Core | Java, SQL, PHP, Git |
-| Web | HTML, CSS, JavaScript |
-| Tools | Maven, JavaFX, MySQL/MariaDB, Jackson/JSON |
-| Currently learning | Java Web, Servlets, FreeMarker, Linux and cloud fundamentals |
+</details>
 
-## Contesto dei progetti / Project Context
+## 📡 Let's connect
 
-**IT** — I progetti presentati sono stati realizzati in team universitari di tre persone, con lavoro condiviso tra analisi, progettazione, implementazione e documentazione. Durante lo sviluppo sono stati utilizzati anche strumenti di IA generativa, come indicato nei repository interessati.
+Interested in software engineering, Java, or building something together? **[Email me](mailto:mattia.ramondo2004@gmail.com)** or **[browse my repositories](https://github.com/raworld26?tab=repositories)**.
 
-**EN** — The featured projects were developed in three-person university teams, sharing work across analysis, design, implementation and documentation. Generative AI tools were also used during development, as documented in the relevant repositories.
-
-## Attualmente sto approfondendo / Currently Learning
-
-- Java web backend development
-- Servlets and FreeMarker
-- Automated testing and CI/CD fundamentals
-- Linux and cloud deployment fundamentals
-
-## Contatti / Contact
-
-- [LinkedIn](https://www.linkedin.com/in/mattia-ramondo-309056358/)
+<p align="center"><img src="assets/footer.svg" alt="A small astronaut sends a signal: Keep building, keep exploring" width="100%"></p>
