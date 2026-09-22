@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Mattia Ramondo — developer universe</title><desc id="desc">A small astronaut works at a terminal among stars and orbit lines.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11182e"/><stop offset="1" stop-color="#202044"/></linearGradient><linearGradient id="glow" x2="1" y2="1"><stop stop-color="#6dd9f4"/><stop offset="1" stop-color="#b4a0ff"/></linearGradient></defs>
+<rect width="1000" height="300" rx="24" fill="url(#bg)"/><circle cx="838" cy="140" r="108" fill="none" stroke="#6dd9f4" stroke-opacity=".22" stroke-width="2"/><circle cx="838" cy="140" r="75" fill="none" stroke="#b4a0ff" stroke-opacity=".22" stroke-width="2"/>
+<g fill="#87cdea"><circle cx="70" cy="42" r="2"/><circle cx="338" cy="34" r="2"/><circle cx="526" cy="72" r="2"/><circle cx="680" cy="38" r="2"/><circle cx="945" cy="48" r="2"/><circle cx="580" cy="248" r="2"/><circle cx="956" cy="252" r="2"/></g><path d="M60 245H575" stroke="#5f6b96" stroke-width="2" stroke-dasharray="5 9"/>
+<text x="60" y="76" fill="#91daf0" font-family="Verdana,Arial,sans-serif" font-size="16" letter-spacing="3">RAWORLD26  /  DEVELOPER UNIVERSE</text>
+<text x="60" y="144" fill="#fff" font-family="Verdana,Arial,sans-serif" font-size="51" font-weight="700">Mattia Ramondo</text>
+<text x="62" y="190" fill="#e5e5f4" font-family="Verdana,Arial,sans-serif" font-size="22">Computer Science student · Software developer</text>
+<text x="62" y="231" fill="#91daf0" font-family="Verdana,Arial,sans-serif" font-size="19">Design the system. Build the next thing.</text>
+<!-- original astronaut mascot -->
+<ellipse cx="817" cy="261" rx="125" ry="13" fill="#0b1023"/><rect x="850" y="158" width="96" height="63" rx="8" fill="#83def4"/><rect x="857" y="165" width="82" height="49" rx="4" fill="#0b1a32"/><path d="M871 185l10 8-10 8m17 0h18" fill="none" stroke="#91e8c8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M870 221h55l10 13h-77z" fill="#586aaa"/>
+<path d="M763 191q-12 25 5 54h85q14-34-4-55z" fill="#d6defe"/><rect x="781" y="237" width="19" height="25" rx="7" fill="#a5b5ec"/><rect x="819" y="237" width="19" height="25" rx="7" fill="#a5b5ec"/><path d="M760 207l-20 25 9 8 34-22m64-8 22 17-8 10-28-16" fill="none" stroke="#d6defe" stroke-width="16" stroke-linecap="round"/>
+<circle cx="805" cy="143" r="57" fill="#eef2ff"/><circle cx="805" cy="145" r="45" fill="#86bdec"/><path d="M773 146q32-40 68-10v35h-69z" fill="#172b4b"/><circle cx="788" cy="144" r="4" fill="#91e8c8"/><circle cx="821" cy="144" r="4" fill="#91e8c8"/><path d="M793 158q12 9 24 0" fill="none" stroke="#91e8c8" stroke-width="3" stroke-linecap="round"/><circle cx="805" cy="143" r="56" fill="none" stroke="#b2a1ff" stroke-width="3"/><path d="M803 85v-16m0 0 15-6" stroke="#dce7ff" stroke-width="4"/><circle cx="819" cy="62" r="6" fill="#91e8c8"/>
+<path d="M946 104l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#e8c78e"/>
+</svg>
