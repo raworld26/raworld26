@@ -30,9 +30,9 @@ Docker, CI/CD and cloud computing are what I am learning next.
 
 **In use**
 
-- **Languages and web:** Java, PHP, JavaScript, HTML, CSS
+- **Languages and web:** Java, PHP, JavaScript, HTML, CSS, C, M68K, MIPS32
 - **Data:** MySQL, MariaDB, SQL, SQLite
-- **Java stack:** JavaFX, Maven, Jackson, JSON
+- **Java stack:** JavaFX, Maven
 - **Workflow and OS:** Git, GitHub, Linux Mint
 
 **Learning**
